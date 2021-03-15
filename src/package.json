@@ -1,0 +1,26 @@
+{
+  "name": "usermgtsystem",
+  "version": "1.0.0",
+  "description": "An application that manages users",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iamkemical/UserMgtSystem.git"
+  },
+  "keywords": [
+    "UserManagementSystem",
+    "Node.js",
+    "Express.js",
+    "Heroku",
+    "MongoDB"
+  ],
+  "author": "Gabriel Isaac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iamkemical/UserMgtSystem/issues"
+  },
+  "homepage": "https://github.com/Iamkemical/UserMgtSystem#readme"
+}
